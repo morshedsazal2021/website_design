@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.header {
+    color: #FA6F5B;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 5px;
+    ;
+
+}
+
+.half img {
+    width: 80%;
+}
+
+.link_buttom {
+    text-decoration: none;
+    background-image: -moz-repeating-linear-gradient(rgb(28, 0, 153), rgb(32, 94, 175));
+    color: white;
+    border-radius: 5px;
+    padding: 7px 28px;
+}
+
+.top_banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
