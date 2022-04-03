@@ -8,12 +8,13 @@ h1 {
     font-size: 50px;
 }
 
-.header {
+.header1 {
     color: #FA6F5B;
 }
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half {
@@ -24,7 +25,7 @@ section {
 }
 
 .half img {
-    width: 80%;
+    width: 90%;
 }
 
 .link_buttom {
@@ -38,4 +39,14 @@ section {
 .top_banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.header2 {
+    color: #3997F6;
+}
+
+.My_Dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
